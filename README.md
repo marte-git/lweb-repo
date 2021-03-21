@@ -1,5 +1,4 @@
 # lweb-repo title
-## sottotitolo appropriato
 
 $ - a repo for people that like :tangerine: and :lemon:
 
